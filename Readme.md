@@ -19,3 +19,11 @@ $ Masukkan nama web laravel anda :
 ```
 
 ## Vue Install (Coming Soon)
+
+
+## 🧑 Author
+
+👤 <a href="https://www.facebook.com/maftuhisan"> **Maftuh Ichsan**</a>
+- Facebook : <a href="https://www.facebook.com/maftuhisan"> Mafttuh Ichsan</a>
+- LinkedIn : <a href="https://www.linkedin.com/in/maftuh-ichsan-456984198/"> Maftuh Ichsan</a>
+- Website  : <a href="http://skyemaff.com/"> Skyemaff.com</a>
